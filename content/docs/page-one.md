@@ -11,3 +11,5 @@ BookToC: true
 ## Heading level 2 in page 1
 
 ![Example image](/1.jpg)
+
+## Updated
